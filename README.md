@@ -9,9 +9,9 @@ template based on those.
 Python 3.5+
 
 ### Usage:
-To get up-to-date filter rules for Legacy league:
-`python3 -m uniques Legacy`
-`python3 -m divcards Legacy`
+To get up-to-date filter rules for Legacy league:    
+`python3 -m uniques Legacy`    
+`python3 -m divcards Legacy`    
 
 The filter rules will be written to standard output, i.e. your 
 console window. Copy them by hand into your respective loot filter
