@@ -50,7 +50,7 @@ Show
     SetTextColor 183 111 240
 
 # Draw pink border around all cards not recognized by the filter
-# (They are constantly adding new cards, and I'm too lazy even to add the cards that are already there)
+# (This should only happen if you didn't rerun the script in a while and they added new cards)
 Show
     Class "Divination Card"
     SetBorderColor 255 100 255
